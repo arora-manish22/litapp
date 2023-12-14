@@ -51,7 +51,7 @@ export class Api {
 
   getUrls() {
     return [
-      this.corsProxy + 'https://literotica.com/api',
+      this.corsProxy + 'https://literotica.com/api/3',
       this.corsProxy + 'https://search.literotica.com/api',
       this.corsProxy + 'https://www.literotica.com',
       this.corsProxy + 'https://raw.githubusercontent.com/theilluminatus/litapp/master',
